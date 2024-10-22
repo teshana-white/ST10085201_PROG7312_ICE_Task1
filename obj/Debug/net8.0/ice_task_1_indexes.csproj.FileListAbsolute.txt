@@ -1,0 +1,14 @@
+C:\Users\Yagi\source\repos\ice_task_1_indexes\bin\Debug\net8.0\ice_task_1_indexes.exe
+C:\Users\Yagi\source\repos\ice_task_1_indexes\bin\Debug\net8.0\ice_task_1_indexes.deps.json
+C:\Users\Yagi\source\repos\ice_task_1_indexes\bin\Debug\net8.0\ice_task_1_indexes.runtimeconfig.json
+C:\Users\Yagi\source\repos\ice_task_1_indexes\bin\Debug\net8.0\ice_task_1_indexes.dll
+C:\Users\Yagi\source\repos\ice_task_1_indexes\bin\Debug\net8.0\ice_task_1_indexes.pdb
+C:\Users\Yagi\source\repos\ice_task_1_indexes\obj\Debug\net8.0\ice_task_1_indexes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yagi\source\repos\ice_task_1_indexes\obj\Debug\net8.0\ice_task_1_indexes.AssemblyInfoInputs.cache
+C:\Users\Yagi\source\repos\ice_task_1_indexes\obj\Debug\net8.0\ice_task_1_indexes.AssemblyInfo.cs
+C:\Users\Yagi\source\repos\ice_task_1_indexes\obj\Debug\net8.0\ice_task_1_indexes.csproj.CoreCompileInputs.cache
+C:\Users\Yagi\source\repos\ice_task_1_indexes\obj\Debug\net8.0\ice_task_1_indexes.dll
+C:\Users\Yagi\source\repos\ice_task_1_indexes\obj\Debug\net8.0\refint\ice_task_1_indexes.dll
+C:\Users\Yagi\source\repos\ice_task_1_indexes\obj\Debug\net8.0\ice_task_1_indexes.pdb
+C:\Users\Yagi\source\repos\ice_task_1_indexes\obj\Debug\net8.0\ice_task_1_indexes.genruntimeconfig.cache
+C:\Users\Yagi\source\repos\ice_task_1_indexes\obj\Debug\net8.0\ref\ice_task_1_indexes.dll

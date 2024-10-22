@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ice_task_1_indexes", "ice_task_1_indexes.csproj", "{DF593BA5-D460-4753-B015-18B5D359C6FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF593BA5-D460-4753-B015-18B5D359C6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF593BA5-D460-4753-B015-18B5D359C6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF593BA5-D460-4753-B015-18B5D359C6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF593BA5-D460-4753-B015-18B5D359C6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4FED67A-18F1-4937-A6F8-69B537ADB993}
+	EndGlobalSection
+EndGlobal
